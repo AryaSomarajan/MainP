@@ -1,6 +1,8 @@
 tensorflow-gpu>=1.10.0,<=1.14.0
 tensorboard<1.15.0,>=1.14.0
+tensorboard<2.3.0,>=2.2.0
 tensorflow-estimator<1.15.0rc0,>=1.14.0rc0
+tensorflow-estimator<2.3.0,>=2.2.0rc0
 umap-learn
 visdom
 webrtcvad
